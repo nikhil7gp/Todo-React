@@ -1,0 +1,11 @@
+input {
+  width: 100%;
+}
+
+.Me-row {
+   margin: 10px 5px;
+}
+
+.Me-button {
+  min-width: 80px;
+}
